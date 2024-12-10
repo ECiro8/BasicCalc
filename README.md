@@ -1,4 +1,4 @@
 # BasicCalc
-Calculadora WEB básica 
+- ES Calculadora WEB básica 
 - ⛓ https://eciro8.github.io/BasicCalc/
-Basic WEB calculator
+- EN Basic WEB calculator
